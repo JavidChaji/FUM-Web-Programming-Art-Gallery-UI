@@ -44,9 +44,9 @@ Ferdowsi University of Mashhad Web Programming Art Gallery UI
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Art-Gallery-UI.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Art-Gallery-UI/blob/master/LICENSE
 
 
 <!-- Linkedin -->
