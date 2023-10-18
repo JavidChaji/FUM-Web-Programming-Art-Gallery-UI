@@ -166,7 +166,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-[HTML.org]: https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=white
+[HTML.org]: https://img.shields.io/badge/HTML-4285f4?style=for-the-badge&logo=HTML5&logoColor=white
 [HTML-url]: https://html.spec.whatwg.org/
 
 
