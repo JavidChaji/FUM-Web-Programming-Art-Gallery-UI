@@ -56,9 +56,9 @@ Ferdowsi University of Mashhad Web Programming Art Gallery UI
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![HTML][HTML.org]][HTML-url]
-* [![CSS][CSS.org]][CSS-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![HTML][HTML-Shield]][HTML-url]
+* [![CSS][CSS-Shield]][CSS-url]
+* [![Bootstrap][Bootstrap-Shield]][Bootstrap-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -166,13 +166,13 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-[HTML.org]: https://img.shields.io/badge/HTML-4285f4?style=for-the-badge&logo=HTML5&logoColor=white
+[HTML-Shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://html.spec.whatwg.org/
 
 
-[CSS.org]: https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=white
+[CSS-Shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://www.w3.org/Style/CSS/
 
 
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-Shield]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
