@@ -54,7 +54,7 @@ Ferdowsi University of Mashhad Web Programming Art Gallery UI
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Technologies and Tools Utilized in this Project
 
 * [![HTML][HTML-Shield]][HTML-url]
 * [![CSS][CSS-Shield]][CSS-url]
