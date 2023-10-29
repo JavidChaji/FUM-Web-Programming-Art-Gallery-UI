@@ -47,7 +47,10 @@ Ferdowsi University of Mashhad Web Programming Art Gallery UI
 </details>
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
+[![Product Screen Shot][Product-Screenshot]][Product-URL]
 
 
 
@@ -165,14 +168,25 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-
+<!-- HTML -->
 [HTML-Shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
 [HTML-url]: https://html.spec.whatwg.org/
 
 
+<!-- CSS -->
 [CSS-Shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
 [CSS-url]: https://www.w3.org/Style/CSS/
 
 
+<!-- Bootstrap -->
 [Bootstrap-Shield]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+
 [Bootstrap-url]: https://getbootstrap.com
+
+
+<!-- Product -->
+[Product-Screenshot]: Images/Screenshot.png
+
+[Product-URL]: .
