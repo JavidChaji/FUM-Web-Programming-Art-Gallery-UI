@@ -1,22 +1,16 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
 
-
-
 [![LinkedIn][LinkedIn-Shield]][Javid-Linkedin-URL]
 
 # art-gallery-html-css-page
 
 Ferdowsi University of Mashhad Web Programming Art Gallery UI
-
-
-
 
 
 
@@ -47,11 +41,11 @@ Ferdowsi University of Mashhad Web Programming Art Gallery UI
 </details>
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Screen Shot][Product-Screenshot]][Product-URL]
-
 
 
 
@@ -65,9 +59,6 @@ Technologies and Tools Utilized in this Project
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 
@@ -86,8 +77,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
